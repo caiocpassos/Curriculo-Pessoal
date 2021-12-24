@@ -6,5 +6,5 @@ Deixarei também um link para outra página do GitHub Pages, também com propós
 
 ## 🚀Links
 
-* [Meu currículo](https://caiocpassos1.github.io/Curriculo-Pessoal/)
-* [Meu site](https://caiocpassos1.github.io/Site-Pessoal/)
+* [Meu currículo](https://caiocpassos.github.io/Curriculo-Pessoal/)
+* [Meu site](https://caiocpassos.github.io/Site-Pessoal/)
